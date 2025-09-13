@@ -1,5 +1,8 @@
 # Working Capital Optimization using Predictive Analytics
 
+![Working Capital Optimization Overview](over.jpg)
+
+
 ## Project Overview
 
 Working capital optimization involves strategically managing a company's current assets and liabilities to enhance operational efficiency and financial health. It focuses on finding the right balance between accounts receivable (AR) and accounts payable (AP) to ensure sufficient liquidity while minimizing costs and risks.
